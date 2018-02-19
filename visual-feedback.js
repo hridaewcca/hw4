@@ -1,7 +1,7 @@
-var freqA = 261;
-var freqS = 293;
-var freqD = 329;
-var freqF = 349;
+var freqA = 174;
+var freqS = 196;
+var freqD = 220;
+var freqF = 246;
 
 var oscA, oscS, oscD, oscF;
 
